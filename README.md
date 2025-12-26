@@ -1,2 +1,2 @@
-# StrawberryFlix
-Recomendador de filmes sobre romance
+# StrawberryFlix2
+Recomendador de filmes
